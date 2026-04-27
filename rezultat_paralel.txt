@@ -1,0 +1,372 @@
+=== RAPORT FINAL EXECUTIE PARALELA ===
+Timp total: 718 ms
+Total cuvinte procesate: 3368
+Total cuvinte unice (global): 166
+======================================
+
+- Fisier: test.pdf ---
+Total cuvinte gasite: 2718
+Cuvinte unice in fisier: 124
+----------------------------
+multe: 20
+experimentale: 20
+totu: 20
+multi: 20
+metode: 20
+java: 20
+sistemului: 20
+semnificativ: 20
+distribui: 20
+procesorul: 20
+fire: 20
+sarcina: 20
+text: 20
+extragerea: 20
+curs: 20
+pentru: 20
+condi: 20
+citire: 20
+caractere: 20
+textului: 20
+permite: 20
+pdftextextractor: 20
+modul: 20
+precum: 20
+distribuim: 20
+clasei: 20
+procesarea: 20
+proiect: 20
+concurrenthashmap: 20
+realizate: 20
+conditions: 20
+oferind: 20
+cea: 20
+care: 40
+ridicat: 20
+analiza: 40
+urile: 20
+paraleli: 20
+nuclee: 20
+direct: 20
+fundamental: 20
+acestui: 20
+ramur: 20
+ceea: 20
+valid: 20
+algoritmilor: 20
+mai: 20
+secven: 40
+ial: 40
+cuvintelor: 2
+procesorului: 20
+ocup: 20
+abordare: 20
+rezultatele: 40
+bufferedwriter: 20
+speedup: 20
+executorservice: 20
+ntr: 60
+informaticii: 20
+concurrency: 20
+framework: 20
+cadrul: 20
+algoritmi: 20
+simultane: 20
+date: 20
+opera: 20
+num: 40
+paralel: 20
+utiliz: 20
+din: 20
+rul: 20
+rarea: 20
+gettextfrompage: 20
+manipularea: 20
+prin: 20
+putem: 40
+tip: 20
+ale: 20
+duce: 20
+ierelor: 20
+colecta: 20
+influen: 20
+toate: 20
+tre: 20
+iile: 20
+sigur: 20
+eficien: 20
+este: 40
+volume: 20
+core: 20
+evit: 20
+mapreduce: 20
+fiecare: 20
+manier: 20
+safe: 20
+final: 20
+cuvint: 18
+execu: 20
+biblioteca: 20
+irurilor: 20
+iilor: 20
+ier: 20
+mediu: 20
+vor: 20
+unui: 20
+astfel: 20
+studiem: 20
+utilizarea: 40
+performan: 20
+race: 20
+elor: 18
+itext: 20
+thread: 40
+timp: 20
+utilitatea: 20
+pdf: 40
+teptare: 20
+faciliteaz: 20
+frecven: 20
+mari: 20
+paginile: 20
+varianta: 20
+eficientiza: 20
+demonstra: 20
+
+- Fisier: test2.pdf ---
+Total cuvinte gasite: 650
+Cuvinte unice in fisier: 64
+----------------------------
+date: 20
+callable: 10
+multe: 10
+paralel: 10
+rui: 10
+utiliz: 10
+previn: 10
+noastr: 10
+fiec: 10
+rii: 10
+java: 10
+critic: 10
+putem: 10
+structurilor: 10
+fire: 10
+tip: 10
+api: 10
+resurs: 10
+proces: 10
+reprezint: 10
+pentru: 10
+distribuit: 10
+acest: 10
+procesat: 10
+viitorul: 10
+gestiona: 10
+precum: 10
+asupra: 10
+este: 10
+sincronizare: 10
+proiect: 10
+concurrenthashmap: 10
+volumului: 10
+textul: 10
+oferind: 10
+care: 10
+execu: 10
+cuv: 10
+calculeaz: 10
+programarea: 10
+mai: 10
+logica: 10
+ncearc: 10
+aspect: 10
+puternice: 10
+aceea: 10
+iar: 10
+modifice: 10
+extrage: 10
+utilizarea: 10
+sarcini: 10
+datelor: 10
+itext: 10
+executorservice: 10
+uri: 10
+atunci: 10
+complexe: 10
+clar: 10
+accesa: 10
+frecven: 10
+mari: 10
+perspectiv: 10
+dimensiuni: 10
+erorile: 10
+
+
+--- FRECVENTA TOTALA (SORTATA ALFABETIC):
+abordare : 20
+accesa : 10
+aceea : 10
+acest : 10
+acestui : 20
+ale : 20
+algoritmi : 20
+algoritmilor : 20
+analiza : 40
+api : 10
+aspect : 10
+astfel : 20
+asupra : 10
+atunci : 10
+biblioteca : 20
+bufferedwriter : 20
+cadrul : 20
+calculeaz : 10
+callable : 10
+caractere : 20
+care : 50
+cea : 20
+ceea : 20
+citire : 20
+clar : 10
+clasei : 20
+colecta : 20
+complexe : 10
+concurrency : 20
+concurrenthashmap : 30
+condi : 20
+conditions : 20
+core : 20
+critic : 10
+curs : 20
+cuv : 10
+cuvint : 18
+cuvintelor : 2
+date : 40
+datelor : 10
+demonstra : 20
+dimensiuni : 10
+din : 20
+direct : 20
+distribui : 20
+distribuim : 20
+distribuit : 10
+duce : 20
+eficien : 20
+eficientiza : 20
+elor : 18
+erorile : 10
+este : 50
+evit : 20
+execu : 30
+executorservice : 30
+experimentale : 20
+extrage : 10
+extragerea : 20
+faciliteaz : 20
+fiec : 10
+fiecare : 20
+final : 20
+fire : 30
+framework : 20
+frecven : 30
+fundamental : 20
+gestiona : 10
+gettextfrompage : 20
+ial : 40
+iar : 10
+ier : 20
+ierelor : 20
+iile : 20
+iilor : 20
+influen : 20
+informaticii : 20
+irurilor : 20
+itext : 30
+java : 30
+logica : 10
+mai : 30
+manier : 20
+manipularea : 20
+mapreduce : 20
+mari : 30
+mediu : 20
+metode : 20
+modifice : 10
+modul : 20
+multe : 30
+multi : 20
+ncearc : 10
+noastr : 10
+ntr : 60
+nuclee : 20
+num : 40
+ocup : 20
+oferind : 30
+opera : 20
+paginile : 20
+paralel : 30
+paraleli : 20
+pdf : 40
+pdftextextractor : 20
+pentru : 30
+performan : 20
+permite : 20
+perspectiv : 10
+precum : 30
+previn : 10
+prin : 20
+proces : 10
+procesarea : 20
+procesat : 10
+procesorul : 20
+procesorului : 20
+programarea : 10
+proiect : 30
+putem : 50
+puternice : 10
+race : 20
+ramur : 20
+rarea : 20
+realizate : 20
+reprezint : 10
+resurs : 10
+rezultatele : 40
+ridicat : 20
+rii : 10
+rui : 10
+rul : 20
+safe : 20
+sarcina : 20
+sarcini : 10
+secven : 40
+semnificativ : 20
+sigur : 20
+simultane : 20
+sincronizare : 10
+sistemului : 20
+speedup : 20
+structurilor : 10
+studiem : 20
+teptare : 20
+text : 20
+textul : 10
+textului : 20
+thread : 40
+timp : 20
+tip : 30
+toate : 20
+totu : 20
+tre : 20
+unui : 20
+uri : 10
+urile : 20
+utilitatea : 20
+utiliz : 30
+utilizarea : 50
+valid : 20
+varianta : 20
+viitorul : 10
+volume : 20
+volumului : 10
+vor : 20
